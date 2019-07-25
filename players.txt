@@ -1,4 +1,4 @@
-palyers list
+players list
 
 aubameyang
 lacazette
@@ -7,3 +7,8 @@ sokratis
 bellerin
 holding
 coach-unai emery
+
+new players:
+dani ceballos
+gabriel martinelli
+william saliba
